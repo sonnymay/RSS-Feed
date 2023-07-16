@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>My Cool Feed</title><link>http://www.example.com/coolfeed</link><description>This is my cool feed</description><language>en</language><lastBuildDate>Sun, 16 Jul 2023 09:55:36 -0000</lastBuildDate><item><title>Hello</title><link>http://www.example.com/hello</link><description>Hello world!</description></item></channel></rss>
